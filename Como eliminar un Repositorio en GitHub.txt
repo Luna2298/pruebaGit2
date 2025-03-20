@@ -1,0 +1,5 @@
+- Ir a la página principal del repositorio que deseas eliminar
+- Hacer clic en la pestaña "Configuración"
+- Desplazarse hasta la parte inferior de la página de configuración
+- En la sección "Zona de peligro", hacer clic en "Eliminar este repositorio"
+- Confirmar que deseas eliminar el repositorio

@@ -1,0 +1,11 @@
+Para solucionarlo puse:
+git add (all other files) or you can also use
+
+git commit -m "reinitialized files"
+
+git push origin master --forcé
+
+Abrió git, puse código, me dio un código de nros.
+Lo puse en mi cuenta de GitHub, se reinicio todo.
+Volvio a abrir el GitHub y ahí tomo el archivo
+creado y los cambios que le hice al archivo
